@@ -1,7 +1,7 @@
 # 공식 업데이트 중단!!
   공식적인 YST 업데이트 지원은 중단되었습니다.
-  지속적인 업데이트는 DTS (Diversity Train Set/다양성 열차세트)를 통해 지속적인 업데이트가 진행되고 있습니다.
   ![Load_Map](https://github.com/DTS-NewGRF/DTS/blob/minengallery/docs/DTS_board.png?raw=true)
+  지속적인 업데이트는 DTS (Diversity Train Set/다양성 열차세트)를 통해 지속적인 업데이트가 진행되고 있습니다.
 
 ## 2022년 5월 31일 마감 업데이트
 - 매개변수를 통해 진행했던 이관 예정 내용 일괄삭제
